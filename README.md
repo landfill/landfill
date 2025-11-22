@@ -8,7 +8,90 @@
 </a>
 
 ---
+```javascript
+  const surroundyou = {
+      pronouns: "He" | "Him",
+      code: ["TypeScript", "JavaScript", "Python", "SQL", "PL/SQL", "VB.NET", "PHP"],
+      askMeAbout: [
+          "vibe coding",
+          "workflow automation",
+          "generative AI",
+          "product strategy",
+          "full-stack web development",
+          "real-time applications",
+          "audio processing",
+          "database design",
+          "tech trends"
+      ],
 
+      technologies: {
+          frontEnd: {
+              js: ["React 18+", "Next.js"],
+              vanilla: ["Vanilla JavaScript (ESM)", "Canvas API"],
+              css: ["Tailwind CSS", "CSS3 (Flexbox, Keyframe Animations)"],
+              realTime: ["Socket.IO Client"],
+              pwa: ["Service Workers"],
+              audio: ["Tone.js", "Web Audio API"],
+          },
+
+          backEnd: {
+              js: ["Node.js 22+", "Express"],
+              serverless: ["Cloudflare Workers"],
+              realTime: ["Socket.IO"],
+              auth: ["NextAuth.js", "CLERK", "JWT", "Google OAuth 2.0", "Supabase Auth],
+              orm: ["Prisma ORM"],
+              apis: ["Google Cloud Text-to-Speech API"],
+          },
+
+          databases: {
+              relational: ["PostgreSQL", "Supabase"],
+              inMemory: ["Redis"],
+              legacy: ["SQL Server", "Oracle Exadata"],
+              realtime: ["Firebase Realtime DB"],
+          },
+
+          generativeAI: ["LLM Integration", "Prompt Engineering", "AI-powered Features"],
+
+          processing: ["PDF-parse", "Canvas API"],
+
+          automation: ["n8n", "Power Automate"],
+
+          devOps: {
+              containerization: ["Docker"],
+              reverseProxy: ["Nginx"],
+              deployment: ["Vercel", "Cloudflare Pages"],
+              cicd: ["GitHub Actions"],
+          },
+
+          testing: ["Jest", "Playwright"],
+
+          codeQuality: ["ESLint"],
+
+          misc: ["REST APIs", "WebSocket Communication", "System Design"],
+      },
+
+      devTools: {
+          ide: ["VSCode", "Cursor", "Antigravity"],
+          aiAssistants: ["Claude Code", "OpenAI Codex", "Google Gemini", "Cline", "Kilo"],
+      },
+
+      expertise: {
+          primary: "Product Manager",
+          focus: [
+              "Vibe Coding & Clean Code",
+              "Workflow Automation",
+              "AI Product Strategy",
+              "Data-driven Decision Making",
+              "Real-time Solutions",
+              "Audio/Media Applications"
+          ],
+      },
+
+      currentFocus: "Mastering vibe coding and building intelligent automation solutions"
+  };
+
+```
+---
 <!-- 🔹 Stats + Solved.ac 나란히 -->
 <table>
   <tr>
