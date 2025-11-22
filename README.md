@@ -131,6 +131,5 @@
 
       currentFocus: "Mastering vibe coding and building intelligent automation solutions"
   };
-
 ```
 </div>
