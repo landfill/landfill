@@ -5,10 +5,12 @@
 <!-- 🔹 GitAnimals (작게) -->
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/lines/landfill?pet-id=1" width="680" height="95" alt="gitanimals lines"/>
+
 </a>
+---
 </div>
 <div align="left">
----
+
 ```javascript
   const surroundyou = {
       pronouns: "He" | "Him",
