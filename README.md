@@ -6,7 +6,8 @@
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/lines/landfill?pet-id=1" width="680" height="95" alt="gitanimals lines"/>
 </a>
-
+</div>
+<div align="left">
 ---
 ```javascript
   const surroundyou = {
@@ -91,6 +92,8 @@
   };
 
 ```
+</div>
+<div align="center">
 ---
 <!-- 🔹 Stats + Solved.ac 나란히 -->
 <table>
