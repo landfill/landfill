@@ -80,7 +80,7 @@
               js: ["Node.js 22+", "Express"],
               serverless: ["Cloudflare Workers"],
               realTime: ["Socket.IO"],
-              auth: ["NextAuth.js", "CLERK", "JWT", "Google OAuth 2.0", "Supabase Auth],
+              auth: ["NextAuth.js", "CLERK", "JWT", "Google OAuth 2.0", "Supabase Auth"],
               orm: ["Prisma ORM"],
               apis: ["Google Cloud Text-to-Speech API"],
           },
