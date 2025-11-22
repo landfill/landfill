@@ -52,75 +52,39 @@
 
 <div align="left">
 ```javascript
-  const surroundyou = {
-      pronouns: "He" | "Him",
-      code: ["TypeScript", "JavaScript", "Python", "SQL", "PL/SQL", "VB.NET", "PHP"],
-      askMeAbout: [
-          "vibe coding",
-          "workflow automation",
-          "generative AI",
-          "product strategy",
-          "full-stack web development",
-          "real-time applications",
-          "audio processing",
-          "database design",
-          "tech trends"
-      ],
-      technologies: {
-          frontEnd: {
-              js: ["React 18+", "Next.js"],
-              vanilla: ["Vanilla JavaScript (ESM)", "Canvas API"],
-              css: ["Tailwind CSS", "CSS3 (Flexbox, Keyframe Animations)"],
-              realTime: ["Socket.IO Client"],
-              pwa: ["Service Workers"],
-              audio: ["Tone.js", "Web Audio API"],
-          },
-          backEnd: {
-              js: ["Node.js 22+", "Express"],
-              serverless: ["Cloudflare Workers"],
-              realTime: ["Socket.IO"],
-              auth: ["NextAuth.js", "CLERK", "JWT", "Google OAuth 2.0", "Supabase Auth"],
-              orm: ["Prisma ORM"],
-              apis: ["Google Cloud Text-to-Speech API"],
-          },
-          databases: {
-              relational: ["PostgreSQL", "Supabase"],
-              inMemory: ["Redis"],
-              legacy: ["SQL Server", "Oracle Exadata"],
-              realtime: ["Firebase Realtime DB"],
-          },
-          generativeAI: ["LLM Integration", "Prompt Engineering", "AI-powered Features"],
-          processing: ["PDF-parse", "Canvas API"],
-          automation: ["n8n", "Power Automate"],
-          devOps: {
-              containerization: ["Docker"],
-              reverseProxy: ["Nginx"],
-              deployment: ["Vercel", "Cloudflare Pages"],
-              cicd: ["GitHub Actions"],
-          },
-          testing: ["Jest", "Playwright"],
-          codeQuality: ["ESLint"],
-          misc: ["REST APIs", "WebSocket Communication", "System Design"]
-      },
-
-      devTools: {
-          ide: ["VSCode", "Cursor", "Antigravity"],
-          aiAssistants: ["Claude Code", "OpenAI Codex", "Google Gemini", "Cline", "Kilo"],
-      },
-
-      expertise: {
-          primary: "Product Manager",
-          focus: [
-              "Vibe Coding & Clean Code",
-              "Workflow Automation",
-              "AI Product Strategy",
-              "Data-driven Decision Making",
-              "Real-time Solutions",
-              "Audio/Media Applications"
-          ],
-      },
-
-      currentFocus: "Mastering vibe coding and building intelligent automation solutions"
-  };
+const anmol = {
+    pronouns: "He" | "Him",
+    code: ["TypeScript", "Javascript", "Python", "Dart"],
+    askMeAbout: ["web dev", "app dev", "cloud computing", "UI/UX", "tech trends"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "Next.js"],
+            css: ["Sass", "Tailwind", "Bootstrap"],
+            uiLibraries: ["Material UI", "Ant Design", "Chakra UI"],
+        },
+        backEnd: {
+            js: ["Node", "Express", "NestJS"],
+            python: ["Flask"],
+        },
+        mobileApp: {
+            crossPlatform: ["Flutter"],
+        },
+        devOps: ["Docker🐳", "CI/CD", "Nginx", "GitHub Actions"],
+        cloudServices: {
+            aws: ["AWS Fargate", "EC2", "S3", "Lambda", "CloudWatch", "RDS"],
+        },
+        databases: ["PostgreSQL", "MongoDB", "SQLite", "Firebase Realtime DB", "redis"],
+        misc: ["Socket.IO", "REST APIs", "WebSockets", "Cloud Functions"],
+        generativeAI: ["GPT", "Vectorization"],
+    },
+    architecture: {
+        frontEnd: ["SPA", "SSR"],
+        backEnd: ["microservices", "monolithic", "serverless"],
+        devOps: ["CloudFormation", "Serverless Framework"],
+        databases: ["Relational", "NoSQL", "In-memory"],
+    },
+    currentFocus: "Leading a way in generative AI innovation",
+    funFact: "I can debug faster with a coffee in hand!"
+};
 ```
 </div>
